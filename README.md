@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tsk
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning CSS, JS, HTML and much more
+- 🌱 I’m currently learning ReactJS, NodeJS and much more
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me: Tsk#6664 on discord
 
